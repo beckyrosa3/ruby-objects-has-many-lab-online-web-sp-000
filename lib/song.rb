@@ -16,10 +16,6 @@ class Song
   def artist_name
      @artist == nil ? nil :
       self.artist.name
-  end
-
-
-
     end
   end
 end
