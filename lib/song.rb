@@ -6,4 +6,7 @@ class Song
     @title = title
   end
 
+  def songs
+    @songs
+  end
 end
