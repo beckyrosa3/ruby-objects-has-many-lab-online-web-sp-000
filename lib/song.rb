@@ -14,7 +14,7 @@ class Song
   end
 
   def artist_name
-    if Song.artist = nil
+    if Artist = nil
       nil
     else
       @artist
