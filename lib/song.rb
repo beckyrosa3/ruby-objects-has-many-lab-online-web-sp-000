@@ -17,7 +17,7 @@ class Song
     if @name == " "
       nil
     elsif self.artist.name
-      
+
       @artist
 
     end
