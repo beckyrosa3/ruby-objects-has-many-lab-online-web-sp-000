@@ -16,7 +16,7 @@ class Song
   def artist_name
     if @name == " "
       nil
-    elsif
+    else
       self.artist.name
 
 
