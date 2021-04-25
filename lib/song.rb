@@ -15,5 +15,7 @@ class Song
 
   def artist_name
     self.artist.name
+    if artist.new = false
+      nil
   end
 end
